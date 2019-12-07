@@ -1,0 +1,2 @@
+# diamante-bruto
+first repository
